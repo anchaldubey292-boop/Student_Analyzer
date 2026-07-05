@@ -19,7 +19,5 @@ It reads a CSV file containing student details and calculates useful statistics 
 ---
 
 ## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/anchaldubey292-boop/student-analyzer.git
+https://github.com/anchaldubey292-boop/Student_Analyzer
   
