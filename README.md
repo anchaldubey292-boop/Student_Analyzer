@@ -2,12 +2,11 @@
 
 # 🎓 Student Analyzer
 ### 📊 Data Analysis with Python & Pandas
-
 <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas">
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Open%20Source-Learning-orange?style=for-the-badge">
+
 
 ### 🚀 Turning Student Data into Actionable Insights
 
@@ -57,8 +56,6 @@ It represents one of the first steps in the **Data Science & Machine Learning pi
 
 👨‍🎓 Count Total Students
 
-📋 Generate Summary Statistics
-
 ⚡ Fast and Beginner Friendly
 
 ---
@@ -69,7 +66,7 @@ It represents one of the first steps in the **Data Science & Machine Learning pi
 |------------|-------|
 | 🐍 Python | Programming |
 | 🐼 Pandas | Data Analysis |
-| 📓 Jupyter Notebook | Development |
+| 📓 Goggle Colab | Development |
 | 📄 CSV | Dataset |
 
 ---
@@ -126,19 +123,27 @@ The notebook calculates:
 
 # 📸 Output Preview
 
-> *(Add screenshots here after uploading them.)*
+<img width="500" height="455" alt="Topper" src="https://github.com/user-attachments/assets/2d213fa2-adf1-4e44-9a7d-9d7661db17f4" />
 
+### 🥇 Class Topper
+
+```text
+ID         : 11
+Name       : Dunn
+Gender     : Male
+Age         : 15
+Section    : C
+
+📚 Subject-wise Marks
+---------------------
+Science    : 100
+English    : 93
+History    : 87
+Maths      : 81
+
+🏅 Total Marks : 361
 ```
-Total Students : 10
 
-Average Marks : 82.5
-
-Highest Marks : 96
-
-Lowest Marks : 61
-
-Topper : Anchal Dubey
-```
 
 ---
 
@@ -162,10 +167,10 @@ Install dependencies
 pip install pandas
 ```
 
-Run Jupyter Notebook
+Run Goggle Colab
 
 ```bash
-jupyter notebook
+Goggle Colab
 ```
 
 Open
@@ -227,18 +232,6 @@ The techniques demonstrated here are directly applicable to:
 - 🌐 Web Application Deployment
 
 ---
-
-# 🌟 Why This Project?
-
-✔ Beginner Friendly
-
-✔ Practical Data Analysis
-
-✔ AI/ML Foundation Project
-
-✔ Clean & Readable Code
-
-✔ GitHub Portfolio Ready
 
 ---
 
