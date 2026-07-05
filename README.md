@@ -199,7 +199,7 @@ Run all cells.
 
 ✔ CSV Handling
 
-✔ Jupyter Notebook
+✔Google Colab
 
 ✔ Problem Solving
 
