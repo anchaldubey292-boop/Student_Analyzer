@@ -71,17 +71,6 @@ It represents one of the first steps in the **Data Science & Machine Learning pi
 
 ---
 
-# 📂 Project Structure
-
-```text
-Student-Analyzer/
-│
-├── 📓 Student_Analyzer.ipynb
-├── 📄 marksheet.csv
-├── 📜 README.md
-└── 📂 screenshots
-```
-
 ---
 
 # 🔄 Project Workflow
