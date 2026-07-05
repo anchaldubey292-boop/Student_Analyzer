@@ -96,7 +96,16 @@ Total Marks: 361
 
 
 ---
+# 📈 Results
 
+| Metric | Result |
+|---------|-------:|
+| 👨‍🎓 Students | 250 |
+| 📈 Average Marks | 204.71 |
+| 🏆 Highest Marks | 361 |
+| 📉 Lowest Marks | 57 |
+| 🥇 Class Topper | Dunn |
+---
 # 📌 Key Insights
 
 📊 Total Students Analyzed
@@ -110,6 +119,17 @@ Total Marks: 361
 📋 Statistical Summary Generated
 
 ---
+
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+| Python | Pandas | Google Colab | CSV |
+|:------:|:-------:|:------------:|:---:|
+| 🐍 | 🐼 | ☁️ | 📄 |
+
+</p>
 
 
 # 🧠 Skills Demonstrated
