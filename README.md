@@ -19,5 +19,5 @@ It reads a CSV file containing student details and calculates useful statistics 
 ---
 
 ## 🚀 How to Run
-https://github.com/anchaldubey292-boop/Student_Analyzer
+Student_Analyzer.ipynb
   
